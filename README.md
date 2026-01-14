@@ -87,4 +87,4 @@ Whether you are snapping windows to multitask, controlling your media, or zoomin
 * **Firmware:** MIT License
 * **Hardware Design:** CERN-OHL-W
 
-*Designed with ❤️ by [Your Name]*
+*Designed with ❤️ by [Sumit Patil]*
