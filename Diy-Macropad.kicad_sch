@@ -2153,7 +2153,7 @@
 			)
 		)
 	)
-	(global_label "Rotary C"
+	(global_label "GND"
 		(shape input)
 		(at 189.23 50.8 180)
 		(fields_autoplaced yes)
@@ -2165,7 +2165,7 @@
 		)
 		(uuid "42cc5d91-7e00-414a-9d32-06855590ecdc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 177.9597 50.8 0)
+			(at 182.3743 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2263,7 +2263,7 @@
 			)
 		)
 	)
-	(global_label "Rotary C"
+	(global_label "GND"
 		(shape input)
 		(at 228.6 132.08 0)
 		(fields_autoplaced yes)
@@ -2275,7 +2275,7 @@
 		)
 		(uuid "9d78a70f-95e5-4af9-b4d5-1561f1d4c8f8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 239.8703 132.08 0)
+			(at 235.4557 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2630,13 +2630,12 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "01bdf966-7757-4277-9456-7690d4eea13e")
 		(property "Reference" "R2"
-			(at 204.47 78.74 90)
+			(at 204.47 85.09 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.2192 1.2192)
 				)
 			)
 		)
@@ -2646,10 +2645,11 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 204.47 86.868 90)
+			(at 204.47 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2770,13 +2770,12 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0f636c14-39f6-4b46-9bcc-2fcf7b3c43c1")
 		(property "Reference" "R1"
-			(at 204.47 76.2 90)
+			(at 204.47 82.55 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.2192 1.2192)
 				)
 			)
 		)
@@ -2786,6 +2785,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
@@ -2860,7 +2860,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad"
 			(at 67.31 153.67 0)
 			(effects
 				(font
@@ -3536,7 +3536,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad"
 			(at 54.61 153.67 0)
 			(effects
 				(font
@@ -4324,7 +4324,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad"
 			(at 49.53 153.67 0)
 			(effects
 				(font
@@ -4538,7 +4538,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad"
 			(at 60.96 153.67 0)
 			(effects
 				(font
